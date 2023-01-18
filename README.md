@@ -1,6 +1,8 @@
 # MultiAi - Python
 
 MultiAi is a Python system that provides code generation, text completion, and README generation services. It uses the OpenAI API to generate code, text, and READMEs from user input. It also provides a graphical user interface for users to interact with the system.
+
+
 ![INFO](https://cdn.discordapp.com/attachments/1014499480608972881/1065311911522091058/Untitled.png)
 
 ## Getting Started
