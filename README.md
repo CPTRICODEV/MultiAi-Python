@@ -4,7 +4,7 @@ MultiAi is a Python system that provides code generation, text completion, and R
 
 ## Getting Started
 
-To get started with MultiAi - Python, you will need to install the required packages. 
+To use MultiAi - Python, you will need to install the required packages and set your - [OpenAi](https://beta.openai.com/account/api-keys) API key up, in the *MultiAi.py* file
 
 ### Prerequisites
 
