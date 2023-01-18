@@ -1,0 +1,6 @@
+PySimpleGUI
+openai
+keyboard
+chardet
+pyperclip
+py2app
