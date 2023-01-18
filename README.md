@@ -65,7 +65,7 @@ When you select the README Generation option, you will be asked to enter the dir
 
 ## Authors
 
-- **[CPTRICODEV]** - *Initial work* - [Patrick_Jakobsen](https://github.com/CPTRICODEV)
+- **[CPTRICODEV]** - *Initial work* - [CPTRICODEV](https://github.com/CPTRICODEV)
 
 ## License
 
